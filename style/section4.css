@@ -1,0 +1,37 @@
+.section4_container{
+    display: flex;
+    flex-flow: column;
+}
+.section4_box1{
+    font-size: 30px;
+    margin: 0 0 20px 0;
+    
+}
+.section4_box2{
+    font-size: 25px;
+    margin: 0 0 20px 0;
+    
+}
+.section4_box3{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section4_box4{
+    font-size: 25px;
+    margin: 0 0 3px 0;
+}
+.section4_box5{
+    font-size: 20px;
+    margin: 0 0 15px 0;
+}
+
+.table_style{
+    border-collapse: collapse;
+}
+.th_style, .td_style{
+    border: 1px solid grey;
+    padding: 10px;
+}

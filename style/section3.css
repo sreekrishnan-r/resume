@@ -1,0 +1,22 @@
+.section3_container{
+    display: flex;
+    flex-flow: column;
+}
+.section3_box1{
+    font-size: 25px;
+    margin: 0 0 20px 0;
+    
+}
+.section3_box2{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid grey;
+    padding: 10px;
+}

@@ -1,0 +1,12 @@
+.section2_container{
+    display: flex;
+    flex-flow: column;
+}
+.section2_box1{
+    font-size: 25px;
+    margin: 0 0 10px 0;
+    
+}
+.section2_box2{
+    font-size: 20px;
+}
